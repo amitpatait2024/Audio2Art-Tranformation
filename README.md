@@ -4,3 +4,5 @@ An end-to-end Generative AI project converts audio prompts into images by using 
 ![image alt](https://github.com/amitpatait2024/Audio2Art-Tranformation/blob/main/Audio2Art%20image1.png?raw=true)
 
 ![image alt](https://github.com/amitpatait2024/Audio2Art-Tranformation/blob/main/Audio2Art%20image%202.png?raw=true)
+
+![image alt](https://github.com/amitpatait2024/Audio2Art-Tranformation/blob/46bd7b5f5467702e3e30c1b41fe096d425e49b3b/Audio2Art%20image%203.png)
